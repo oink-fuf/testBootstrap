@@ -63,7 +63,7 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 33%; /*otázka 8*/
+  flex: 25%; /*otázka 8*/
   background-color: darkblue; /*otázka 4*/
   padding: 20px;
   color: #666; /*otázka 4*/
@@ -71,7 +71,7 @@ body {
 
 /* Main column */
 .main {   
-  flex: 66%; /*otázka 8*/
+  flex: 75%; /*otázka 8*/
   background-color: white;
   padding: 20px;
 }
